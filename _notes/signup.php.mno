@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="notes" value="this code  enters blank line with pid even if the data is not entered into the sign up form" />
+	<infoitem key="status" value="needs attention" />
+</info>
